@@ -1,0 +1,575 @@
+[
+    {
+        "featureName": "OP_FEATURE_QUICK_REPLY"
+    },
+    {
+        "featureName": "OP_FEATURE_PERF_MANAGER"
+    },
+    {
+        "featureName": "OP_FEATURE_DOUBLE_TAP_POWER_KEY_ALEXA"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_GAME_VIBRATE"
+    },
+    {
+        "featureName": "OP_FEATURE_COLLECT_BATTERYSTATS"
+    },
+    {
+        "featureName": "OP_FEATURE_ONEPLUS_BOOTANIMATION"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_AUDIO_ELEVOC_ECNS"
+    },
+    {
+        "featureName": "OP_FEATURE_BUGREPORT"
+    },
+    {
+        "featureName": "OP_FEATURE_CUSTOM_STATUS_BAR"
+    },
+    {
+        "featureName": "OP_FEATURE_APP_LOCKER"
+    },
+    {
+        "featureName": "OP_FEATURE_QPOWER"
+    },
+    {
+        "featureName": "OP_FEATURE_OP_KEYGUARD"
+    },
+    {
+        "featureName": "OP_FEATURE_TCP_CONTROL"
+    },
+    {
+        "featureName": "OP_FEATURE_AI_GESTURE"
+    },
+    {
+        "featureName": "OP_FEATURE_RECOVERY_FORMAT_WARNING"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_5G"
+    },
+    {
+        "featureName": "OP_FEATURE_FORCE_DARK"
+    },
+    {
+        "featureName": "OP_FEATURE_SAP_WPA3_SUPPORT"
+    },
+    {
+        "featureName": "OP_FEATURE_INFRARED_PROXIMITY_SUPPORT"
+    },
+    {
+        "featureName": "OP_FEATURE_OPRECOVERY_BOOT_REASON"
+    },
+    {
+        "featureName": "OP_FEATURE_STANDBY_DETECTION"
+    },
+    {
+        "featureName": "OP_FEATURE_UPDATE_RESERVE"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_SMARTPA"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_FINGERPRINT_VENDOR_MOUDLE"
+    },
+    {
+        "featureName": "OP_FEATURE_PWM_UNDER_SCREEN_LIGHT"
+    },
+    {
+        "featureName": "OP_FEATURE_MMS_NOTI_SOUND"
+    },
+    {
+        "featureName": "OP_FEATURE_CUSTOM_KEYS"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_AW"
+    },
+    {
+        "featureName": "OP_FEATURE_TRI_STATE_KEY"
+    },
+    {
+        "featureName": "OP_FEATURE_CHARGE_OPTIMIZATED"
+    },
+    {
+        "featureName": "OP_FEATURE_SKIP_DOFRAME"
+    },
+    {
+        "featureName": "OP_FEATURE_SKIP_UIDIDLE"
+    },
+    {
+        "featureName": "OP_FEATURE_USE_AUDIO_STATE"
+    },
+    {
+        "featureName": "OP_FEATURE_BGC"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_LTM"
+    },
+    {
+        "featureName": "OP_FEATURE_OEMEX_SERVICE"
+    },
+    {
+        "featureName": "OP_FEATURE_AD_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_OPDIAGNOSE"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREEN_REFRESH_RATE"
+    },
+    {
+        "featureName": "OP_FEATURE_OPCS_RECORD_SCREENON_TIME"
+    },
+    {
+        "featureName": "OP_FEATURE_TGPA"
+    },
+    {
+        "featureName": "OP_FEATURE_OPSLM"
+    },
+    {
+        "featureName": "OP_FEATURE_OPSLA"
+    },
+    {
+        "featureName": "OP_FEATURE_AI_BOOST_PACKAGE"
+    },
+    {
+        "featureName": "OP_FEATURE_X_LINEAR_VIBRATION_MOTOR"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_RECORDING_SCREEN"
+    },
+    {
+        "featureName": "OP_FEATURE_MEMORY_TRACKER"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREEN_OFF_USE_INFRARED"
+    },
+    {
+        "featureName": "OP_FEATURE_UXREALM"
+    },
+    {
+        "featureName": "OP_FEATURE_GESTURE_SCREENSHOT"
+    },
+    {
+        "featureName": "OP_FEATURE_OPCD"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREEN_COMPAT"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREEN_ON_USE_ULTRASOUND"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_ANTI_BURN"
+    },
+    {
+        "featureName": "OP_FEATURE_BOOST_BRIGHTNESS"
+    },
+    {
+        "featureName": "OP_FEATURE_NOTIFICATION_LIGHT"
+    },
+    {
+        "featureName": "OP_FEATURE_WARP_CHARGE_5V6A"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_CH_SWITCH"
+    },
+    {
+        "featureName": "OP_FEATURE_FAST_CHARGE"
+    },
+    {
+        "featureName": "OP_FEATURE_FACE_UNLOCK"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_RECODER_CH_SWITCH"
+    },
+    {
+        "featureName": "OP_FEATURE_OPSM"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_AUDIO_CURVE"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_TA"
+    },
+    {
+        "featureName": "OP_FEATURE_MISTOUCH_PREVENTION"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_LOW_KING_VOLUME"
+    },
+    {
+        "featureName": "OP_FEATURE_PREBUILD_NETFLIX"
+    },
+    {
+        "featureName": "OP_FEATURE_DEVICE_DEFAULT_WALLPAPER"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_LOG"
+    },
+    {
+        "featureName": "OP_FEATURE_ONEPLUS_CB"
+    },
+    {
+        "featureName": "OP_FEATURE_OPEN_ID"
+    },
+    {
+        "featureName": "OP_FEATURE_HOLE_PUNCH_FRONT_CAM"
+    },
+    {
+        "featureName": "OP_FEATURE_OIMC"
+    },
+    {
+        "featureName": "OP_FEATURE_OVERHEAT_SKIN"
+    },
+    {
+        "featureName": "OP_FEATURE_BG_DETECTION"
+    },
+    {
+        "featureName": "OP_FEATURE_SMART_DOZE"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_TAP_COEXIST"
+    },
+    {
+        "featureName": "OP_FEATURE_PROCESS_ADJ_CONTROL"
+    },
+    {
+        "featureName": "OP_FEATURE_CAMERA_NOTCH"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_POCKETMODE_SWITCH"
+    },
+    {
+        "featureName": "OP_FEATURE_PROCESS_RESIDENT"
+    },
+    {
+        "featureName": "OP_FEATURE_BACK_COVER_THEME"
+    },
+    {
+        "featureName": "OP_FEATURE_STA_SAP"
+    },
+    {
+        "featureName": "OP_FEATURE_SCENE_MODES"
+    },
+    {
+        "featureName": "OP_FEATURE_OTG_AUTO_SHUTDOWN"
+    },
+    {
+        "featureName": "OP_FEATURE_GPS_NOTIFICATION"
+    },
+    {
+        "featureName": "OP_FEATURE_BLACK_GESTURE"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_AUDIO_CGROUP"
+    },
+    {
+        "featureName": "OP_FEATURE_PRELOAD_APP_TO_DATA"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_VIDEO_ENHANCEMENT"
+    },
+    {
+        "featureName": "OP_FEATURE_JANKMANAGER"
+    },
+    {
+        "featureName": "OP_FEATURE_SOFT_IRIS_ENABLE"
+    },
+    {
+        "featureName": "OP_FEATURE_FASTPAIR"
+    },
+    {
+        "featureName": "OP_FEATURE_SOC_TRI_STATE_KEY"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_HEADSET_PROFILE"
+    },
+    {
+        "featureName": "OP_FEATURE_RESERVE_APP"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREENSHOT_IMPROVEMENT"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_WIDEVINE_DRM_L1"
+    },
+    {
+        "featureName": "OP_FEATURE_PHOTOS_PROTECTOR"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_HAC"
+    },
+    {
+        "featureName": "OP_FEATURE_POWER_CONSUMPTION_STATISTICS"
+    },
+    {
+        "featureName": "OP_FEATURE_APPRECORD"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_DISPLAY_COLOR_SCREEN_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_KEY_LOCK"
+    },
+    {
+        "featureName": "OP_FEATURE_VIBRATION_INTENSITY"
+    },
+    {
+        "featureName": "OP_FEATURE_HBM_AUTO_ADJUST"
+    },
+    {
+        "featureName": "OP_FEATURE_AUTO_STARTUP"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_MDM"
+    },
+    {
+        "featureName": "OP_FEATURE_AER_ZEROTOUCH"
+    },
+    {
+        "featureName": "OP_FEATURE_LANDSCAPE_APP_ANIMATION_IMPROVEMENT"
+    },
+    {
+        "featureName": "OP_FEATURE_BACKGROUND_PROCESS_FROZEN"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_REDEFINE_POWER_BUTTON"
+    },
+    {
+        "featureName": "OP_FEATURE_BLUETOOTH_UART_LOG"
+    },
+    {
+        "featureName": "OP_FEATURE_AGGRESSIVE_DOZE"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_ENGINEERING_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_NEW_MEMORY_OPTIMIZATION"
+    },
+    {
+        "featureName": "OP_FEATURE_POWER_CONTROLLER"
+    },
+    {
+        "featureName": "OP_FEATURE_EMBRYO"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREEN_AOD_USE_ULTRASOUND"
+    },
+    {
+        "featureName": "OP_FEATURE_OPUTIL"
+    },
+    {
+        "featureName": "OP_FEATURE_EARPHONE_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_WIFI_SERVICE"
+    },
+    {
+        "featureName": "OP_FEATURE_DEEP_TASK_CLEANER"
+    },
+    {
+        "featureName": "OP_FEATURE_ALARM_ALIGNMENT"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_5G_LTE"
+    },
+    {
+        "featureName": "OP_FEATURE_TRIPLE_CAMERA"
+    },
+    {
+        "featureName": "OP_FEATURE_SWAP_KEYS"
+    },
+    {
+        "featureName": "OP_FEATURE_ZEN_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_OVERHEAT_DIAGNOSIS"
+    },
+    {
+        "featureName": "OP_FEATURE_HWUI_SKIA_REDUCE_OVERDRAW"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_UNDERSCREEN_SENSOR"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_CLOSE_PA"
+    },
+    {
+        "featureName": "OP_FEATURE_BOOT_ENTER_BOUNCER"
+    },
+    {
+        "featureName": "OP_FEATURE_MULTI_SIM_RINGTONES"
+    },
+    {
+        "featureName": "OP_FEATURE_OP2_RECOVERY"
+    },
+    {
+        "featureName": "OP_FEATURE_PIXELWORKS_BRIGHTNESS_SMOOTH"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_RESTORE_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_ENABLE_FINGERPRINT_POCKET"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_CUSTOM_FINGERPRINT"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_ALERTSLIDER"
+    },
+    {
+        "featureName": "OP_FEATURE_APP_USAGE_CLASSIFICATION"
+    },
+    {
+        "featureName": "OP_FEATURE_REDSCREEN_ASSERTION"
+    },
+    {
+        "featureName": "OP_FEATURE_APP_BOOT_MANAGER"
+    },
+    {
+        "featureName": "OP_FEATURE_MDM"
+    },
+    {
+        "featureName": "OP_FEATURE_EXT_AUDIO_DECODER"
+    },
+    {
+        "featureName": "OP_FEATURE_APPS_DISPLAY_IN_FULLSCREEN"
+    },
+    {
+        "featureName": "OP_FEATURE_PARALLEL_APP"
+    },
+    {
+        "featureName": "OP_FEATURE_IME_LAND_PADDING"
+    },
+    {
+        "featureName": "OP_FEATURE_SKU_GLOBAL"
+    },
+    {
+        "featureName": "OP_FEATURE_OHPD"
+    },
+    {
+        "featureName": "OP_FEATURE_POST_INSTALL_AMAZON_APPS"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_ULTRASOUND"
+    },
+    {
+        "featureName": "OP_FEATURE_LOD_SWITCH"
+    },
+    {
+        "featureName": "OP_FEATURE_ONEPLUS_SERVICE"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_AUDIO_DIAGNOSIS"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_NS_AEC"
+    },
+    {
+        "featureName": "OP_FEATURE_HIDE_CAMERA_NOTCH"
+    },
+    {
+        "featureName": "OP_FEATURE_HEYTAP_BUSINESS"
+    },
+    {
+        "featureName": "OP_FEATURE_WARP_CHARGING_ANIM"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_GCP"
+    },
+    {
+        "featureName": "OP_FEATURE_DAILY_PROTO_REPORTING"
+    },
+    {
+        "featureName": "OP_FEATURE_GAME_TP"
+    },
+    {
+        "featureName": "OP_FEATURE_QUICK_LAUNCH"
+    },
+    {
+        "featureName": "OP_FEATURE_LONG_SCREENSHOT"
+    },
+    {
+        "featureName": "OP_FEATURE_INFRARED_POWER_CONTROL"
+    },
+    {
+        "featureName": "OP_FEATURE_FROZEN"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_WECHAT_NS"
+    },
+    {
+        "featureName": "OP_FEATURE_VERIFICATION_BUBBLE"
+    },
+    {
+        "featureName": "OP_FEATURE_CUSTOM_NAVBAR"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_MODECLIENT"
+    },
+    {
+        "featureName": "OP_FEATURE_APP_PRELOAD"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_GAME_DOLBY_WHITELIST"
+    },
+    {
+        "featureName": "OP_FEATURE_ALERT_SLIDER_RVS"
+    },
+    {
+        "featureName": "OP_FEATURE_SYSTEM_UPDATE_BY_AB"
+    },
+    {
+        "featureName": "OP_FEATURE_SMART_POWER_CONTROL"
+    },
+    {
+        "featureName": "OP_FEATURE_DROP_DOWN_STATUS_BAR_WITH_FINGER"
+    },
+    {
+        "featureName": "OP_FEATURE_MAX_BACKLIGHT"
+    },
+    {
+        "featureName": "OP_FEATURE_COLOR_DISPLAY"
+    },
+    {
+        "featureName": "OP_FEATURE_DIM_MODE_GESTURE"
+    },
+    {
+        "featureName": "OP_FEATURE_MM_ABANDON_DELAY"
+    },
+    {
+        "featureName": "OP_FEATURE_SUPPORT_COLOR_READ_MODE"
+    },
+    {
+        "featureName": "OP_FEATURE_SCREEN_ROTATION_IMPROVEMENT"
+    },
+    {
+        "featureName": "OP_FEATURE_OVERHEAT_ENABLE"
+    },
+    {
+        "featureName": "OP_FEATURE_PROXIMITY_CONTROLLER"
+    },
+    {
+        "featureName": "OP_FEATURE_EXTREME_VSYNC"
+    },
+    {
+        "featureName": "OP_FEATURE_APP_PREDICTION"
+    },
+    {
+        "featureName": "OP_FEATURE_SMART_BOOST"
+    },
+    {
+        "featureName": "OP_FEATURE_NEW_PLAN_POWEWR_OFF_ALARM"
+    },
+    {
+        "featureName": "OP_FEATURE_DEXOPT"
+    },
+    {
+        "featureName": "OP_FEATURE_LPMODE"
+    },
+    {
+        "featureName": "OP_FEATURE_CHANGE_PACKAGE_NAME"
+    }
+]

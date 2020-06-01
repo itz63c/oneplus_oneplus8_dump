@@ -1,0 +1,13 @@
+#
+# init scriptures for training daemon.
+#
+on property:sys.training.sarah=1
+   start sarahd
+on property:sys.training.sarah=0
+   stop sarahd
+service sarahd /system/bin/sarah
+   class main
+   user system
+   group system
+   disabled
+   oneshot
