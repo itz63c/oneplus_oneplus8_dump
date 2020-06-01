@@ -1,0 +1,47 @@
+##################################################################################
+### VENDOR_EDIT, OEM All rights reserved.
+###
+### File: - init.sku.rc
+### Author: 
+### all oem triger & init are here
+### ------------------------------- Revision History: ----------------------------
+### <author>                        <data>       <version>   <desc>
+### ------------------------------------------------------------------------------
+### 
+##################################################################################
+
+on property:ro.boot.product.hardware.sku=0
+    setprop persist.radio.multisim.config ssss
+
+on property:ro.boot.product.hardware.sku=1
+    setprop persist.radio.multisim.config ssss
+
+on property:ro.boot.product.hardware.sku=2
+    setprop persist.radio.multisim.config dsds
+
+on property:ro.boot.product.hardware.sku=3
+    setprop persist.radio.multisim.config dsds
+
+on property:ro.boot.product.hardware.sku=4
+    setprop persist.radio.multisim.config ssss
+    setprop persist.vendor.radio.uicc_se_enabled false
+
+on property:ro.boot.product.hardware.sku=5
+    setprop persist.radio.multisim.config ssss
+    setprop persist.vendor.radio.uicc_se_enabled false
+
+on property:ro.boot.product.hardware.sku=6
+    setprop persist.radio.multisim.config dsds
+    setprop persist.vendor.radio.uicc_se_enabled false
+
+on property:ro.boot.product.hardware.sku=7
+    setprop persist.radio.multisim.config dsds
+    setprop persist.vendor.radio.uicc_se_enabled false
+
+on property:ro.boot.prj_version=11 && property:ro.boot.rf_version=15
+    overlay_firmware overlay overlay /vendor/firmware_mnt/image lowerdir=/vendor/firmware_mnt/modem_c7/image:/vendor/firmware_mnt/image,context=u:object_r:firmware_file:s0
+    overlay_firmware overlay overlay /vendor/firmware_mnt/verinfo lowerdir=/vendor/firmware_mnt/modem_c7/verinfo:/vendor/firmware_mnt/verinfo,context=u:object_r:firmware_file:s0
+
+on property:ro.boot.prj_version=12 && property:ro.boot.rf_version=15
+    overlay_firmware overlay overlay /vendor/firmware_mnt/image lowerdir=/vendor/firmware_mnt/modem_c7/image:/vendor/firmware_mnt/image,context=u:object_r:firmware_file:s0
+    overlay_firmware overlay overlay /vendor/firmware_mnt/verinfo lowerdir=/vendor/firmware_mnt/modem_c7/verinfo:/vendor/firmware_mnt/verinfo,context=u:object_r:firmware_file:s0
