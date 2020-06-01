@@ -1,0 +1,5 @@
+mcfg_hw/generic/common/SDX55/FUSION/LA/SS/mcfg_hw.mbn
+mcfg_hw/generic/common/SDX55/FUSION/LA/SS_CDMALess/mcfg_hw.mbn
+mcfg_hw/generic/common/SDX55/FUSION/WD/SS/mcfg_hw.mbn
+mcfg_hw/generic/common/SDX55/STANDALONE/LE/SS/mcfg_hw.mbn
+mcfg_hw/generic/common/SDX55/STANDALONE/LE/SS_CDMALess/mcfg_hw.mbn
